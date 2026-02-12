@@ -1,11 +1,9 @@
 ---
 name: pain-to-power-alchemy
-description: Transform suffering into creative or productive output through Frida
-  Kahlo's methodology of externalization, symbolization, and transmutation. Pain is
-  material, not conclusion.
+description: Transform suffering into creative or productive output through Frida Kahlo's methodology of externalization, symbolization, and transmutation. Pain is material, not conclusion.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - pain-to-power-alchemy
